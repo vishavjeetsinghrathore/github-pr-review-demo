@@ -1,0 +1,8 @@
+{
+  "name": "github-pr-review-demo",
+  "version": "1.0.0",
+  "description": "Small JavaScript project for testing n8n AI-based GitHub PR reviews",
+  "main": "src/index.js",
+  "scripts": {"start": "node src/index.js", "test": "node --test"},
+  "engines": {"node": ">=18"}
+}
